@@ -60,13 +60,15 @@
  }
 
  img {
+    
      vertical-align: middle;
      max-width: 100%;
+    
  }
 
  .container {
      max-width: 1140px;
-     /* background-color: red; */
+     /* background-color:#06d79c; */
      margin: auto;
  }
 
